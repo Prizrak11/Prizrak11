@@ -20,16 +20,16 @@ I focus on web technologies, especially the frontend, however I would like to le
 ![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png)
 
 ### Languages
-» JavaScript   
-        *» Babel  
-» Css  
-        *» Sass  
-» Html  
-        *» Pug / Jade  
+* JavaScript   
+       * Babel  
+* Css  
+       * Sass  
+* Html  
+       * Pug / Jade  
 
 ### Other
-» Markdown  
-» Figma  
-» Git  
-        *» GitHub  
-» Webpack  
+* Markdown  
+* Figma  
+* Git  
+       * GitHub  
+* Webpack  
