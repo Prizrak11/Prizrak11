@@ -21,15 +21,17 @@ I focus on web technologies, especially the frontend, however I would like to le
 
 ### Languages
 * JavaScript
-      * Babel  
+      - Babel  
 * Css
-      * Sass  
+      - Sass  
 * Html
-      * Pug / Jade  
+      - Pug / Jade  
 
 ### Other
 * Markdown  
 * Figma  
 * Git
-      * GitHub  
+      - GitHub  
 * Webpack  
+
+___
