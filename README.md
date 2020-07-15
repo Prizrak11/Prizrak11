@@ -13,6 +13,8 @@
 My name is Santiago, I'm 16 years old and I'm passionate about programming, I like to be constantly learning new things.
 I focus on web technologies, especially the frontend, however I would like to learn backend and database management
 
+
+
 ![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png)
 
 ### Languages
