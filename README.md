@@ -1,21 +1,34 @@
-![header](/GitHubHeader.png)
+![header](https://github.com/Prizrak11/Prizrak11/blob/master/GitHubHeader.png)
 
-<p>
-<a href='https://twitter.com/SantiagoPato_11'><img height='30' src='/twitterIcon.png'></a>&nbsp;&nbsp;
+<p align='center'>
+<a href='https://twitter.com/SantiagoPato_11'><img height='30' src='https://github.com/Prizrak11/Prizrak11/blob/master/twitterIcon.png'></a>&nbsp;&nbsp;
+<a href='https://www.instagram.com/santiago.pato11/?hl=es-la'><img height='30' src='https://github.com/Prizrak11/Prizrak11/blob/master/instagramIcon.png'></a>&nbsp;&nbsp;
+<a href='https://discord.gg/wA87wgw'><img height='30' src='https://github.com/Prizrak11/Prizrak11/blob/master/discordIcon.png'></a>&nbsp;&nbsp;
 </p>
+---
+
+![aboutMe](https://github.com/Prizrak11/Prizrak11/blob/master/aboutMeHeader)
+
 ### Hi there 👋
 
-<!--
-**Prizrak11/Prizrak11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Santiago, I'm 16 years old and I'm passionate about programming, I like to be constantly learning new things.
+I focus on web technologies, especially the frontend, however I would like to learn backend and database management
 
-Here are some ideas to get you started:
+![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+-   JavaScript
+    -   Babel
+-   Css
+    -   Sass
+-   Html
+    -   Pug / Jade
+
+## Other
+
+-   Markdown
+-   Figma
+-   Git
+    -   GitHub
+-   Webpack
