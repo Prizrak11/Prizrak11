@@ -26,12 +26,12 @@ I focus on web technologies, especially the frontend, however I would like to le
       └ Sass  
 * Html  
       └ Pug / Jade  
-
+<p align='right'>
 ### Other
 * Markdown  
 * Figma  
 * Git  
       └ GitHub  
 * Webpack  
-
+</p>
 ___
