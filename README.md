@@ -16,7 +16,6 @@ I focus on web technologies, especially the frontend, however I would like to le
 ![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png)
 
 ### Languages
-
 -   JavaScript
     -   Babel
 -   Css
@@ -25,7 +24,6 @@ I focus on web technologies, especially the frontend, however I would like to le
     -   Pug / Jade
 
 ### Other
-
 -   Markdown
 -   Figma
 -   Git
