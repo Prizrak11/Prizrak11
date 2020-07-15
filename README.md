@@ -19,11 +19,12 @@ I focus on web technologies, especially the frontend, however I would like to le
 
 ![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png)
 
-| Languages                      | Other                      |
-| :----------------------------- | :------------------------- |
-| » JavaScript<br />     » Babel | » Markdown                 |
-| » Css<br />     » Sass         | » Figma                    |
-| » Html<br />      » Pug / Jade | » Git<br />       » GitHub |
-|                                | » Markdown                 |
-
+```
+───────── Languages ─────────                                               ───────── Other ─────────
+                                    
+» Javascript                                                                » Markdown
+» Css  | Sass                                                               » Git | GitHub
+» Html | Pug/Jade                                                           » Figma
+                                                                            » Webpack
+```
 ___
