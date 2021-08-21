@@ -8,7 +8,7 @@
 
 > Life  live you will remember
 
-![aboutMe](https://github.com/Prizrak11/Prizrak11/blob/master/aboutMeHeader.png)
+![aboutMe](https://github.com/Prizrak11/Prizrak11/blob/master/aboutmeHeader.png)
 
 
 ### Hi there 👋
@@ -17,7 +17,7 @@ My name is Santiago, I'm 17 years old and I'm passionate about programming, I li
 I focus on web technologies, especially the frontend, however I'm open to new and different ways to make things easier for people through the technology.
 
 
-![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png)
+![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillsHeader.png)
 
 I try to keep learning new things day by day
 
