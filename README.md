@@ -5,7 +5,6 @@
 <a href='https://discord.gg/wA87wgw'><img height='50' src='https://github.com/Prizrak11/Prizrak11/blob/master/discordIcon.png'></a>&nbsp;&nbsp;
 </p>
 
-___
 
 > Life  live you will remember
 
