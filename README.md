@@ -5,15 +5,17 @@
 <a href='https://discord.gg/wA87wgw'><img height='50' src='https://github.com/Prizrak11/Prizrak11/blob/master/discordIcon.png'></a>&nbsp;&nbsp;
 </p>
 
+___
+
 > Life  live you will remember
 
 ![aboutMe](https://github.com/Prizrak11/Prizrak11/blob/master/aboutMeHeader.png)
+
 
 ### Hi there 👋
 
 My name is Santiago, I'm 17 years old and I'm passionate about programming, I like to be constantly learning new things.
 I focus on web technologies, especially the frontend, however I'm open to new and different ways to make things easier for people through the technology.
-
 
 
 ![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png)
