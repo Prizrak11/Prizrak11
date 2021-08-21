@@ -1,4 +1,4 @@
-![header](https://github.com/Prizrak11/Prizrak11/blob/master/gitHubHeader.png)
+![header](https://github.com/Prizrak11/Prizrak11/blob/master/githubHeader.png)
 
 <p align='center'>
 <a href='https://www.instagram.com/santiago.pato11/?hl=es-la'><img height='50' src='https://github.com/Prizrak11/Prizrak11/blob/master/instagramIcon.png'></a>&nbsp;&nbsp;
