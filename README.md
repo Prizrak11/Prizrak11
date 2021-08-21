@@ -12,18 +12,34 @@
 ### Hi there 👋
 
 My name is Santiago, I'm 17 years old and I'm passionate about programming, I like to be constantly learning new things.
-I focus on web technologies, especially the frontend, however I would like to learn backend and database management
+I focus on web technologies, especially the frontend, however I'm open to new and different ways to make things easier for people through the technology.
 
 
 
 ![skills](https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png)
 
-```
-───────── Languages ─────────                                               ───────── Other ─────────
-                                    
-» Javascript                                                                » Markdown
-» Css  | Sass                                                               » Git | GitHub
-» Html | Pug/Jade                                                           » Figma
-                                                                            » Webpack
+I try to keep learning new things day by day
+
+```javascript
+const skills = {
+    currentFocus : 'Front-End development',
+    code: ['Javascript'],
+    tools: {
+        develop:  ['React JS', 'Node JS', 'Vanilla JS'],
+        styles: ['CSS', 'Sass'],
+        structure: ['HTML', 'Pug / Jade'],
+        data: ['SQL']
+    },
+    misc : [
+        'Markdown',
+        'Git', 'Github',
+        'Figma',
+        'Webpack'
+    ],
+    languages:['Spanish', 'English'],
+    future: ['MongoDB', 'Python', 'Machine Learning', '...?']
+}
+
+me.sayHi()
 ```
 ___
