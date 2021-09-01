@@ -1,4 +1,4 @@
-<img src='https://github.com/Prizrak11/Prizrak11/blob/master/gitHubHeader.png' alt='header' />
+<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/gitHubHeader.png' alt='header' />
 
 <p align='center'>
 <a href='https://www.instagram.com/santiago.pato11/?hl=es-la'><img height='50' src='https://github.com/Prizrak11/Prizrak11/blob/master/instagramIcon.png'></a>&nbsp;&nbsp;
@@ -8,14 +8,14 @@
 
 > Life  live you will remember
 
-<img src='https://github.com/Prizrak11/Prizrak11/blob/master/aboutMeHeader.png' alt='aboutMe' />
+<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/aboutMeHeader.png' alt='aboutMe' />
 
 ### Hi there 👋
 
 My name is Santiago, I'm 17 years old and I'm passionate about programming, I like to be constantly learning new things.
 I focus on web technologies, especially the frontend, however I'm open to new and different ways to make things easier for people through the technology.
 
-<img src='https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png' alt='skills' />
+<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png' alt='skills' />
 
 I try to keep learning new things day by day
 
@@ -43,4 +43,4 @@ me.sayHi()
 ```
 ___
 
-<img src="https://github.com/Prizrak11/Prizrak11/blob/master/images/stat.svg" alt="Prizrak's code activity"/>
+<img height='100%' src="https://github.com/Prizrak11/Prizrak11/blob/master/images/stat.svg" alt="Prizrak's code activity"/>
