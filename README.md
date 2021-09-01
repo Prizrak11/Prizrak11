@@ -1,5 +1,5 @@
 <p>
-<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/gitHubHeader.png' alt='header' />
+<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/githubHeader.png' alt='header' />
 </p>
 
 <p align='center'>
@@ -11,7 +11,7 @@
 > Life  live you will remember
 
 <p>
-<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/aboutMeHeader.png' alt='aboutMe' />
+<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/aboutmeHeader.png' alt='aboutMe' />
 </p>
     
 ### Hi there 👋
@@ -20,7 +20,7 @@ My name is Santiago, I'm 17 years old and I'm passionate about programming, I li
 I focus on web technologies, especially the frontend, however I'm open to new and different ways to make things easier for people through the technology.
 
 <p>
-<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/skillHeader.png' alt='skills' />
+<img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/skillsHeader.png' alt='skills' />
 </p>
     
 I try to keep learning new things day by day
