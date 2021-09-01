@@ -45,4 +45,4 @@ me.sayHi()
 ```
 ___
 
-<img src="https://github.com/Prizrak11/Prizrak11/blob/main/images/stat.svg" alt="Prizrak's code activity"/>
+<img src="https://github.com/Prizrak11/Prizrak11/blob/master/images/stat.svg" alt="Prizrak's code activity"/>
