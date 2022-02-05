@@ -16,7 +16,7 @@
     
 ### Hi there 👋
 
-My name is Santiago, I'm 17 years old and I'm passionate about programming, I like to be constantly learning new things.
+My name is Santiago, I'm 18 years old and I'm passionate about programming, I like to be constantly learning new things.
 I focus on web technologies, especially the frontend, however I'm open to new and different ways to make things easier for people through the technology.
 
 <p>
@@ -48,7 +48,3 @@ const skills = {
 me.sayHi()
 ```
 ___
-
-<p>
-<img height='100%' src="https://github.com/Prizrak11/Prizrak11/blob/master/images/stat.svg" alt="Prizrak's code activity"/>
-</p>
