@@ -42,7 +42,7 @@ const skills = {
         'Webpack'
     ],
     languages:['Spanish', 'English'],
-    future: ['MongoDB', 'Python', 'Machine Learning', '...?']
+    future: ['Ruby', 'MongoDB', 'Python', 'Machine Learning', '...?']
 }
 
 me.sayHi()
