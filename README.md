@@ -27,11 +27,11 @@ I try to keep learning new things day by day
 
 ```javascript
 const skills = {
-    currentFocus : 'Front-End development',
+    currentFocus : 'FrontEnd and Backend!',
     code: ['Javascript'],
     tools: {
         develop:  ['React JS', 'Node JS', 'Vanilla JS'],
-        styles: ['CSS', 'Sass'],
+        styles: ['CSS', 'Sass', 'Tailwind', 'Material UI'],
         structure: ['HTML', 'Pug / Jade'],
         data: ['SQL']
     },
@@ -42,7 +42,7 @@ const skills = {
         'Webpack'
     ],
     languages:['Spanish', 'English'],
-    future: ['Ruby', 'MongoDB', 'Python', 'Machine Learning', '...?']
+    future: ['MongoDB', 'Python', 'Go', 'Rust' 'Machine Learning', '...?']
 }
 
 me.sayHi()
