@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-<a href='https://www.instagram.com/santiago.pato11/?hl=es-la'><img height='50' src='https://github.com/Prizrak11/Prizrak11/blob/master/instagramIcon.png'></a>&nbsp;&nbsp;
+<a href='https://www.instagram.com/littleparce'><img height='50' src='https://github.com/Prizrak11/Prizrak11/blob/master/instagramIcon.png'></a>&nbsp;&nbsp;
 <a href='https://discord.gg/wA87wgw'><img height='50' src='https://github.com/Prizrak11/Prizrak11/blob/master/discordIcon.png'></a>&nbsp;&nbsp;
 </p>
 
