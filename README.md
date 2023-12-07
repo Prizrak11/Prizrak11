@@ -16,8 +16,8 @@
     
 ### Hi there 👋
 
-My name is Santiago, I'm 18 years old and I'm passionate about programming, I like to be constantly learning new things.
-I focus on web technologies, especially the frontend, however I'm open to new and different ways to make things easier for people through the technology.
+My name is Santiago, I'm 19 years old and I'm passionate about programming, I like to be constantly learning new things.
+I focus on web technologies, however I'm open to new and different ways to make things easier for people through the technology.
 
 <p>
 <img height='100%' src='https://github.com/Prizrak11/Prizrak11/blob/master/skillsHeader.png' alt='skills' />
@@ -28,10 +28,10 @@ I try to keep learning new things day by day
 ```javascript
 const skills = {
     currentFocus : 'FrontEnd and Backend!',
-    code: ['Javascript'],
+    code: ['Javascript', 'Typescript'],
     tools: {
-        develop:  ['React JS', 'Node JS', 'Vanilla JS'],
-        styles: ['CSS', 'Sass', 'Tailwind', 'Material UI'],
+        develop:  ['React', 'Node', 'Vanilla JS', 'Nest', 'Next'],
+        styles: ['CSS', 'Sass', 'Tailwind', 'Material UI', 'PostCSS'],
         structure: ['HTML', 'Pug / Jade'],
         data: ['SQL']
     },
@@ -39,10 +39,11 @@ const skills = {
         'Markdown',
         'Git', 'Github',
         'Figma',
-        'Webpack'
+        'Webpack',
+        'Jest'
     ],
     languages:['Spanish', 'English'],
-    future: ['MongoDB', 'Python', 'Go', 'Rust' 'Machine Learning', '...?']
+    future: Promise.all(['MongoDB', 'GraphQL', 'Python', 'Astro', 'Rust', 'Ruby', 'Machine Learning', '...?'])
 }
 
 me.sayHi()
