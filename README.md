@@ -16,7 +16,7 @@
     
 ### Hi there 👋
 
-My name is Santiago, I'm 19 years old and I'm passionate about programming, I like to be constantly learning new things.
+My name is Santiago, I'm 20 years old and I'm passionate about programming, I like to be constantly learning new things.
 I focus on web technologies, however I'm open to new and different ways to make things easier for people through the technology.
 
 <p>
